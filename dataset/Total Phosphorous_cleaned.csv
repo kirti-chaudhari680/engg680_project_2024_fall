@@ -1,0 +1,260 @@
+ID,Sample Site,Numeric Result,Formatted Result,Result Units,Latitude (Degrees),Longitude (Degrees),Sample Date,Parameter,Site Key
+,Bow River Below Bearspaw Dam,0.004,0.004,mg/L,51.10122,-114.27975,05/14/2003 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.015,0.015,mg/L,51.10122,-114.27975,05/27/2003 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.009,0.009,mg/L,51.10122,-114.27975,06/10/2003 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.006,0.006,mg/L,51.10122,-114.27975,06/24/2003 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.005,0.005,mg/L,51.10122,-114.27975,07/08/2003 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.004,0.004,mg/L,51.10122,-114.27975,07/22/2003 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.003,<0.003,mg/L,51.10122,-114.27975,08/12/2003 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.004,0.004,mg/L,51.10122,-114.27975,08/26/2003 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.003,<0.003,mg/L,51.10122,-114.27975,09/09/2003,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.003,0.003,mg/L,51.10122,-114.27975,10/07/2003 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.003,0.003,mg/L,51.10122,-114.27975,11/04/2003 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.003,0.003,mg/L,51.10122,-114.27975,12/02/2003,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.002,0.002,mg/L,51.10122,-114.27975,01/13/2004,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.002,<0.002,mg/L,51.10122,-114.27975,02/04/2004 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.002,<0.002,mg/L,51.10122,-114.27975,03/02/2004 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.004,0.004,mg/L,51.10122,-114.27975,04/08/2004 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.006,0.006,mg/L,51.10122,-114.27975,05/05/2004 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.005,0.005,mg/L,51.10122,-114.27975,06/02/2004 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.005,0.005,mg/L,51.10122,-114.27975,06/30/2004 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.003,0.003,mg/L,51.10122,-114.27975,07/28/2004 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.005,0.005,mg/L,51.10122,-114.27975,08/25/2004 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.002,0.002,mg/L,51.10122,-114.27975,09/23/2004,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.003,0.003,mg/L,51.10122,-114.27975,10/20/2004 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.002,<0.002,mg/L,51.10122,-114.27975,11/17/2004 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.002,<0.002,mg/L,51.10122,-114.27975,12/15/2004 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.002,0.002,mg/L,51.10122,-114.27975,01/12/2005,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.004,0.004,mg/L,51.10122,-114.27975,02/09/2005 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.01,0.01,mg/L,51.10122,-114.27975,03/09/2005 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.008,0.008,mg/L,51.10122,-114.27975,04/06/2005 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.009,0.009,mg/L,51.10122,-114.27975,05/04/2005,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.006,0.006,mg/L,51.10122,-114.27975,06/01/2005 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.137999997,0.138,mg/L,51.10122,-114.27975,06/29/2005 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.006,0.006,mg/L,51.10122,-114.27975,07/27/2005 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.006,0.006,mg/L,51.10122,-114.27975,08/24/2005 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.014,0.014,mg/L,51.10122,-114.27975,09/22/2005 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.003,0.003,mg/L,51.10122,-114.27975,10/19/2005 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.004,0.004,mg/L,51.10122,-114.27975,11/16/2005 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.004,0.004,mg/L,51.10122,-114.27975,12/14/2005 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.004,0.004,mg/L,51.10122,-114.27975,01/11/2006 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.004,0.004,mg/L,51.10122,-114.27975,02/08/2006,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.003,0.003,mg/L,51.10122,-114.27975,03/08/2006 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.007,0.007,mg/L,51.10122,-114.27975,04/05/2006 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.006,0.006,mg/L,51.10122,-114.27975,05/03/2006,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.008,0.008,mg/L,51.10122,-114.27975,05/31/2006 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.005,0.005,mg/L,51.10122,-114.27975,06/28/2006 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.003,0.003,mg/L,51.10122,-114.27975,07/26/2006,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.004,0.004,mg/L,51.10122,-114.27975,08/23/2006 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.004,0.004,mg/L,51.10122,-114.27975,09/20/2006,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.004,0.004,mg/L,51.10122,-114.27975,10/18/2006,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.003,0.003,mg/L,51.10122,-114.27975,11/15/2006 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.003,0.003,mg/L,51.10122,-114.27975,12/13/2006,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.004,0.004,mg/L,51.10122,-114.27975,01/10/2007 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.003,0.003,mg/L,51.10122,-114.27975,02/07/2007 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.007,0.007,mg/L,51.10122,-114.27975,03/07/2007,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.004,0.004,mg/L,51.10122,-114.27975,04/04/2007 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.006,0.006,mg/L,51.10122,-114.27975,05/02/2007,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.007,0.007,mg/L,51.10122,-114.27975,05/30/2007,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.014,0.014,mg/L,51.10122,-114.27975,06/27/2007,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.008,0.008,mg/L,51.10122,-114.27975,07/25/2007 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.003,0.003,mg/L,51.10122,-114.27975,08/22/2007 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.004,0.004,mg/L,51.10122,-114.27975,09/19/2007 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.002,0.002,mg/L,51.10122,-114.27975,10/17/2007 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.004,0.004,mg/L,51.10122,-114.27975,11/14/2007,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.002,0.002,mg/L,51.10122,-114.27975,12/12/2007,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.003,0.003,mg/L,51.10122,-114.27975,01/09/2008 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.003,0.003,mg/L,51.10122,-114.27975,02/06/2008,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.005,0.005,mg/L,51.10122,-114.27975,03/05/2008,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.003,0.003,mg/L,51.10122,-114.27975,04/02/2008 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.005,0.005,mg/L,51.10122,-114.27975,04/30/2008 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.072999999,0.073,mg/L,51.10122,-114.27975,05/28/2008 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.01,0.01,mg/L,51.10122,-114.27975,06/25/2008 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.006,0.006,mg/L,51.10122,-114.27975,07/23/2008 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.004,0.004,mg/L,51.10122,-114.27975,08/20/2008 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.004,0.004,mg/L,51.10122,-114.27975,09/17/2008,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.002,0.002,mg/L,51.10122,-114.27975,10/16/2008 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.004,0.004,mg/L,51.10122,-114.27975,11/12/2008,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.003,0.003,mg/L,51.10122,-114.27975,12/10/2008 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.003,0.003,mg/L,51.10122,-114.27975,01/07/2009 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.005,0.005,mg/L,51.10122,-114.27975,02/04/2009 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.003,0.003,mg/L,51.10122,-114.27975,03/04/2009 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.005,0.005,mg/L,51.10122,-114.27975,04/01/2009 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.005,0.005,mg/L,51.10122,-114.27975,04/29/2009 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.008,0.008,mg/L,51.10122,-114.27975,05/27/2009 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.008,0.008,mg/L,51.10122,-114.27975,06/24/2009 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.004,0.004,mg/L,51.10122,-114.27975,07/22/2009 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.004,0.004,mg/L,51.10122,-114.27975,08/19/2009 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.005,0.005,mg/L,51.10122,-114.27975,09/16/2009,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.004,0.004,mg/L,51.10122,-114.27975,10/14/2009 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.004,0.004,mg/L,51.10122,-114.27975,11/09/2009 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.009,0.009,mg/L,51.10122,-114.27975,12/10/2009 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.005,0.005,mg/L,51.10122,-114.27975,01/06/2010 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.005,0.005,mg/L,51.10122,-114.27975,02/03/2010 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.005,0.005,mg/L,51.10122,-114.27975,03/03/2010 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.005,0.005,mg/L,51.10122,-114.27975,03/31/2010 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.006,0.006,mg/L,51.10122,-114.27975,04/28/2010 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.007,0.007,mg/L,51.10122,-114.27975,05/26/2010 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.01,0.01,mg/L,51.10122,-114.27975,06/23/2010 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.004,0.004,mg/L,51.10122,-114.27975,07/21/2010 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.004,0.004,mg/L,51.10122,-114.27975,08/18/2010 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.003,0.003,mg/L,51.10122,-114.27975,09/15/2010 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.003,0.003,mg/L,51.10122,-114.27975,10/13/2010 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.003,0.003,mg/L,51.10122,-114.27975,11/10/2010,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.002,0.002,mg/L,51.10122,-114.27975,12/06/2010 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.003,0.003,mg/L,51.10122,-114.27975,01/19/2011 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.003,0.003,mg/L,51.10122,-114.27975,02/15/2011 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.004,0.004,mg/L,51.10122,-114.27975,03/22/2011 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.008,0.008,mg/L,51.10122,-114.27975,04/12/2011,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.007,0.007,mg/L,51.10122,-114.27975,05/10/2011 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.025,0.025,mg/L,51.10122,-114.27975,06/14/2011,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.007,0.007,mg/L,51.10122,-114.27975,07/12/2011,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.005,0.005,mg/L,51.10122,-114.27975,08/16/2011 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.003,0.003,mg/L,51.10122,-114.27975,09/15/2011,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.005,0.005,mg/L,51.10122,-114.27975,10/11/2011 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.004,0.004,mg/L,51.10122,-114.27975,11/15/2011,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.004,0.004,mg/L,51.10122,-114.27975,12/13/2011 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.004,0.004,mg/L,51.10122,-114.27975,01/10/2012 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.003,0.003,mg/L,51.10122,-114.27975,02/07/2012,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.004,0.004,mg/L,51.10122,-114.27975,03/06/2012,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.008,0.008,mg/L,51.10122,-114.27975,04/03/2012 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.008,0.008,mg/L,51.10122,-114.27975,05/08/2012 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.048999999,0.049,mg/L,51.10122,-114.27975,06/12/2012 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.01,0.01,mg/L,51.10122,-114.27975,07/10/2012,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.006,0.006,mg/L,51.10122,-114.27975,08/14/2012 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.005,0.005,mg/L,51.10122,-114.27975,09/12/2012,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.003,0.003,mg/L,51.10122,-114.27975,10/09/2012,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.004,0.004,mg/L,51.10122,-114.27975,11/06/2012,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.003,0.003,mg/L,51.10122,-114.27975,12/11/2012 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.004,0.004,mg/L,51.10122,-114.27975,01/15/2013 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.005,0.005,mg/L,51.10122,-114.27975,02/12/2013 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.004,0.004,mg/L,51.10122,-114.27975,03/12/2013 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.004,0.004,mg/L,51.10122,-114.27975,04/09/2013 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.007,0.007,mg/L,51.10122,-114.27975,05/14/2013,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.008,0.008,mg/L,51.10122,-114.27975,06/11/2013 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.024,0.024,mg/L,51.10122,-114.27975,07/16/2013,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.006,0.006,mg/L,51.10122,-114.27975,08/20/2013,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.005,0.005,mg/L,51.10122,-114.27975,09/19/2013,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.005,0.005,mg/L,51.10122,-114.27975,10/08/2013 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.006,0.006,mg/L,51.10122,-114.27975,11/05/2013 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.005,0.005,mg/L,51.10122,-114.27975,12/11/2013 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.004,0.004,mg/L,51.10122,-114.27975,01/14/2014 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.005,0.005,mg/L,51.10122,-114.27975,02/11/2014,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.025,0.025,mg/L,51.10122,-114.27975,03/18/2014,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.016000001,0.016,mg/L,51.10122,-114.27975,04/15/2014 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.016000001,0.016,mg/L,51.10122,-114.27975,05/13/2014 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.013,0.013,mg/L,51.10122,-114.27975,06/10/2014,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.006,0.006,mg/L,51.10122,-114.27975,07/15/2014 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.004,0.004,mg/L,51.10122,-114.27975,08/12/2014 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.007,0.007,mg/L,51.10122,-114.27975,09/09/2014 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.005,0.005,mg/L,51.10122,-114.27975,10/21/2014 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.004,0.004,mg/L,51.10122,-114.27975,11/18/2014,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.005,0.005,mg/L,51.10122,-114.27975,12/09/2014 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.004,0.004,mg/L,51.10122,-114.27975,01/13/2015,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.004,0.004,mg/L,51.10122,-114.27975,02/10/2015,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.005,0.005,mg/L,51.10122,-114.27975,03/10/2015 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.006,0.006,mg/L,51.10122,-114.27975,04/14/2015,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.006,0.006,mg/L,51.10122,-114.27975,05/12/2015 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.011,0.011,mg/L,51.10122,-114.27975,06/09/2015 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.005,0.005,mg/L,51.10122,-114.27975,07/14/2015,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.004,0.004,mg/L,51.10122,-114.27975,08/11/2015 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.006,0.006,mg/L,51.10122,-114.27975,09/09/2015 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.004,0.004,mg/L,51.10122,-114.27975,10/21/2015 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.003,0.003,mg/L,51.10122,-114.27975,11/17/2015 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.025,0.025,mg/L,51.10122,-114.27975,12/08/2015 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.002,0.002,mg/L,51.10122,-114.27975,01/11/2016,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.003,0.003,mg/L,51.10122,-114.27975,02/08/2016 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.004,0.004,mg/L,51.10122,-114.27975,03/14/2016,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.006,0.006,mg/L,51.10122,-114.27975,04/11/2016 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.007,0.007,mg/L,51.10122,-114.27975,05/10/2016 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.009,0.009,mg/L,51.10122,-114.27975,06/13/2016 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.005,0.005,mg/L,51.10122,-114.27975,07/11/2016 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.007,0.007,mg/L,51.10122,-114.27975,08/08/2016 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.006,0.006,mg/L,51.10122,-114.27975,09/12/2016 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.005,0.005,mg/L,51.10122,-114.27975,10/24/2016 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.003,0.003,mg/L,51.10122,-114.27975,11/14/2016 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.003,0.003,mg/L,51.10122,-114.27975,12/12/2016 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.005,0.005,mg/L,51.10122,-114.27975,01/09/2017,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.002,0.002,mg/L,51.10122,-114.27975,02/13/2017 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.003,0.003,mg/L,51.10122,-114.27975,03/13/2017,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.008,0.008,mg/L,51.10122,-114.27975,04/10/2017 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.01,0.01,mg/L,51.10122,-114.27975,05/08/2017 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.029999999,0.03,mg/L,51.10122,-114.27975,06/12/2017 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.008,0.008,mg/L,51.10122,-114.27975,07/10/2017 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.007,0.007,mg/L,51.10122,-114.27975,08/14/2017,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.005,0.005,mg/L,51.10122,-114.27975,09/11/2017 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.004,0.004,mg/L,51.10122,-114.27975,10/10/2017,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.005,0.005,mg/L,51.10122,-114.27975,11/13/2017 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.002,0.002,mg/L,51.10122,-114.27975,12/11/2017 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.004,0.004,mg/L,51.10122,-114.27975,01/08/2018 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.005,0.005,mg/L,51.10122,-114.27975,02/13/2018,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.005,0.005,mg/L,51.10122,-114.27975,03/12/2018 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.007,0.007,mg/L,51.10122,-114.27975,04/09/2018,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.01,0.01,mg/L,51.10122,-114.27975,05/14/2018,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.013,0.013,mg/L,51.10122,-114.27975,06/11/2018 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.009,0.009,mg/L,51.10122,-114.27975,07/09/2018 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.006,0.006,mg/L,51.10122,-114.27975,08/13/2018 ,Total Phosphorus (TP),SUR_BR-BD
+,Bow River Below Bearspaw Dam,0.006,0.006,mg/L,51.10122,-114.27975,09/10/2018 ,Total Phosphorus (TP),SUR_BR-BD
+30091378,Bow River Below Bearspaw Dam,0.005,0.005,mg/L,51.100403,-114.270774,10/09/2018 ,Total Phosphorus (TP),SUR_BR-BD
+30404719,Bow River Below Bearspaw Dam,0.005,0.005,mg/L,51.100403,-114.270774,11/12/2018,Total Phosphorus (TP),SUR_BR-BD
+30646190,Bow River Below Bearspaw Dam,0.004,0.004,mg/L,51.100403,-114.270774,12/10/2018 ,Total Phosphorus (TP),SUR_BR-BD
+30919379,Bow River Below Bearspaw Dam,0.006,0.006,mg/L,51.100403,-114.270774,01/16/2019 ,Total Phosphorus (TP),SUR_BR-BD
+31166217,Bow River Below Bearspaw Dam,0.006,0.006,mg/L,51.100403,-114.270774,02/14/2019 ,Total Phosphorus (TP),SUR_BR-BD
+31370139,Bow River Below Bearspaw Dam,0.004,0.004,mg/L,51.100403,-114.270774,03/13/2019 ,Total Phosphorus (TP),SUR_BR-BD
+31461445,Bow River Below Bearspaw Dam,0.004,0.004,mg/L,51.100403,-114.270774,04/11/2019 ,Total Phosphorus (TP),SUR_BR-BD
+31765333,Bow River Below Bearspaw Dam,0.004,0.004,mg/L,51.100403,-114.270774,05/15/2019 ,Total Phosphorus (TP),SUR_BR-BD
+32026466,Bow River Below Bearspaw Dam,0.009,0.009,mg/L,51.100403,-114.270774,06/12/2019 ,Total Phosphorus (TP),SUR_BR-BD
+32215657,Bow River Below Bearspaw Dam,0.011,0.011,mg/L,51.100403,-114.270774,07/10/2019 ,Total Phosphorus (TP),SUR_BR-BD
+32532055,Bow River Below Bearspaw Dam,0.005,0.005,mg/L,51.100403,-114.270774,08/14/2019 ,Total Phosphorus (TP),SUR_BR-BD
+32958545,Bow River Below Bearspaw Dam,0.012,0.012,mg/L,51.100403,-114.270774,09/11/2019,Total Phosphorus (TP),SUR_BR-BD
+33307983,Bow River Below Bearspaw Dam,0.005,0.005,mg/L,51.100403,-114.270774,10/17/2019 ,Total Phosphorus (TP),SUR_BR-BD
+33599424,Bow River Below Bearspaw Dam,0.004,0.004,mg/L,51.100403,-114.270774,11/20/2019 ,Total Phosphorus (TP),SUR_BR-BD
+33884537,Bow River Below Bearspaw Dam,0.004,0.004,mg/L,51.100403,-114.270774,12/11/2019,Total Phosphorus (TP),SUR_BR-BD
+34135767,Bow River Below Bearspaw Dam,0.004,0.004,mg/L,51.100403,-114.270774,01/22/2020 ,Total Phosphorus (TP),SUR_BR-BD
+34372332,Bow River Below Bearspaw Dam,0.004,0.004,mg/L,51.100403,-114.270774,02/12/2020 ,Total Phosphorus (TP),SUR_BR-BD
+34652341,Bow River Below Bearspaw Dam,0.003,0.003,mg/L,51.100403,-114.270774,03/11/2020 ,Total Phosphorus (TP),SUR_BR-BD
+34982482,Bow River Below Bearspaw Dam,0.015,0.015,mg/L,51.100403,-114.270774,04/17/2020,Total Phosphorus (TP),SUR_BR-BD
+35198309,Bow River Below Bearspaw Dam,0.008,0.008,mg/L,51.100403,-114.270774,05/14/2020 ,Total Phosphorus (TP),SUR_BR-BD
+35491261,Bow River Below Bearspaw Dam,0.014,0.014,mg/L,51.100403,-114.270774,06/11/2020 ,Total Phosphorus (TP),SUR_BR-BD
+36372038,Bow River Below Bearspaw Dam,0.007,0.007,mg/L,51.100403,-114.270774,07/15/2020,Total Phosphorus (TP),SUR_BR-BD
+37758158,Bow River Below Bearspaw Dam,0.005,0.005,mg/L,51.100403,-114.270774,08/12/2020 ,Total Phosphorus (TP),SUR_BR-BD
+38572463,Bow River Below Bearspaw Dam,0.004,0.004,mg/L,51.100403,-114.270774,09/16/2020 ,Total Phosphorus (TP),SUR_BR-BD
+39725009,Bow River Below Bearspaw Dam,0.005,0.005,mg/L,51.100403,-114.270774,10/15/2020 ,Total Phosphorus (TP),SUR_BR-BD
+40516773,Bow River Below Bearspaw Dam,0.005,0.005,mg/L,51.100403,-114.270774,11/12/2020,Total Phosphorus (TP),SUR_BR-BD
+41437064,Bow River Below Bearspaw Dam,0.005,0.005,mg/L,51.100403,-114.270774,12/09/2020,Total Phosphorus (TP),SUR_BR-BD
+42181149,Bow River Below Bearspaw Dam,0.004,0.004,mg/L,51.100403,-114.270774,01/13/2021,Total Phosphorus (TP),SUR_BR-BD
+42822588,Bow River Below Bearspaw Dam,0.003,0.003,mg/L,51.100403,-114.270774,02/24/2021 ,Total Phosphorus (TP),SUR_BR-BD
+43374550,Bow River Below Bearspaw Dam,0.003,0.003,mg/L,51.100403,-114.270774,03/10/2021 ,Total Phosphorus (TP),SUR_BR-BD
+43705411,Bow River Below Bearspaw Dam,0.006,0.006,mg/L,51.100403,-114.270774,04/14/2021,Total Phosphorus (TP),SUR_BR-BD
+44289236,Bow River Below Bearspaw Dam,0.006,0.006,mg/L,51.100403,-114.270774,05/12/2021 ,Total Phosphorus (TP),SUR_BR-BD
+45443686,Bow River Below Bearspaw Dam,0.019,0.019,mg/L,51.100403,-114.270774,06/09/2021,Total Phosphorus (TP),SUR_BR-BD
+46341826,Bow River Below Bearspaw Dam,0.004,0.004,mg/L,51.100403,-114.270774,07/15/2021,Total Phosphorus (TP),SUR_BR-BD
+47229357,Bow River Below Bearspaw Dam,0.004,0.004,mg/L,51.100403,-114.270774,08/11/2021 ,Total Phosphorus (TP),SUR_BR-BD
+48230187,Bow River Below Bearspaw Dam,0.003,0.003,mg/L,51.100403,-114.270774,09/15/2021,Total Phosphorus (TP),SUR_BR-BD
+49019816,Bow River Below Bearspaw Dam,0.002,0.002,mg/L,51.100403,-114.270774,10/14/2021 ,Total Phosphorus (TP),SUR_BR-BD
+49992863,Bow River Below Bearspaw Dam,0.002,0.002,mg/L,51.100403,-114.270774,11/10/2021 ,Total Phosphorus (TP),SUR_BR-BD
+50825736,Bow River Below Bearspaw Dam,0.002,0.002,mg/L,51.100403,-114.270774,12/15/2021 ,Total Phosphorus (TP),SUR_BR-BD
+51646578,Bow River Below Bearspaw Dam,0.003,0.003,mg/L,51.100403,-114.270774,01/12/2022 ,Total Phosphorus (TP),SUR_BR-BD
+51951101,Bow River Below Bearspaw Dam,0.002,0.002,mg/L,51.100403,-114.270774,02/16/2022 ,Total Phosphorus (TP),SUR_BR-BD
+52309858,Bow River Below Bearspaw Dam,0.004,0.004,mg/L,51.100403,-114.270774,03/16/2022 ,Total Phosphorus (TP),SUR_BR-BD
+52598761,Bow River Below Bearspaw Dam,0.004,0.004,mg/L,51.100403,-114.270774,04/13/2022 ,Total Phosphorus (TP),SUR_BR-BD
+53199175,Bow River Below Bearspaw Dam,0.005,0.005,mg/L,51.100403,-114.270774,05/11/2022,Total Phosphorus (TP),SUR_BR-BD
+53946512,Bow River Below Bearspaw Dam,0.163,0.163,mg/L,51.100403,-114.270774,06/15/2022 ,Total Phosphorus (TP),SUR_BR-BD
+55019056,Bow River Below Bearspaw Dam,0.008,0.008,mg/L,51.100403,-114.270774,07/13/2022 ,Total Phosphorus (TP),SUR_BR-BD
+56131175,Bow River Below Bearspaw Dam,0.004,0.004,mg/L,51.100403,-114.270774,08/10/2022 ,Total Phosphorus (TP),SUR_BR-BD
+56997427,Bow River Below Bearspaw Dam,0.004,0.004,mg/L,51.100403,-114.270774,09/14/2022,Total Phosphorus (TP),SUR_BR-BD
+57948125,Bow River Below Bearspaw Dam,0.002,0.002,mg/L,51.100403,-114.270774,10/13/2022 ,Total Phosphorus (TP),SUR_BR-BD
+59213990,Bow River Below Bearspaw Dam,0.003,0.003,mg/L,51.100403,-114.270774,11/09/2022,Total Phosphorus (TP),SUR_BR-BD
+60001171,Bow River Below Bearspaw Dam,0.004,0.004,mg/L,51.100403,-114.270774,12/15/2022,Total Phosphorus (TP),SUR_BR-BD
+60554344,Bow River Below Bearspaw Dam,0.003,0.003,mg/L,51.100403,-114.270774,01/11/2023 ,Total Phosphorus (TP),SUR_BR-BD
+60982945,Bow River Below Bearspaw Dam,0.002,0.002,mg/L,51.100403,-114.270774,02/15/2023 ,Total Phosphorus (TP),SUR_BR-BD
+61398491,Bow River Below Bearspaw Dam,0.004,0.004,mg/L,51.100403,-114.270774,03/15/2023 ,Total Phosphorus (TP),SUR_BR-BD
+61755246,Bow River Below Bearspaw Dam,0.005,0.005,mg/L,51.100403,-114.270774,04/12/2023 ,Total Phosphorus (TP),SUR_BR-BD
+62798687,Bow River Below Bearspaw Dam,0.006,0.006,mg/L,51.100403,-114.270774,05/10/2023,Total Phosphorus (TP),SUR_BR-BD
+63580216,Bow River Below Bearspaw Dam,0.006,0.006,mg/L,51.100403,-114.270774,06/14/2023,Total Phosphorus (TP),SUR_BR-BD
+64694805,Bow River Below Bearspaw Dam,0.008,0.008,mg/L,51.100403,-114.270774,07/12/2023 ,Total Phosphorus (TP),SUR_BR-BD
+65886697,Bow River Below Bearspaw Dam,0.008,0.008,mg/L,51.100403,-114.270774,08/16/2023 ,Total Phosphorus (TP),SUR_BR-BD
+66219397,Bow River Below Bearspaw Dam,0.007,0.007,mg/L,51.100403,-114.270774,09/13/2023 ,Total Phosphorus (TP),SUR_BR-BD
+68614501,Bow River Below Bearspaw Dam,0.008,0.008,mg/L,51.100403,-114.270774,10/11/2023,Total Phosphorus (TP),SUR_BR-BD
+69866898,Bow River Below Bearspaw Dam,0.006,0.006,mg/L,51.100403,-114.270774,11/15/2023,Total Phosphorus (TP),SUR_BR-BD
+72004756,Bow River Below Bearspaw Dam,0.007,0.007,mg/L,51.100403,-114.270774,12/13/2023,Total Phosphorus (TP),SUR_BR-BD
